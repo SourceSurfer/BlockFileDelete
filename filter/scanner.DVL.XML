@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<Data> 
+<AssessmentScore ScoreName="scanner.x64.SDV.NORUN" ScoreValue="0" ScoreUnit="" />
+
+<AssessmentScore ScoreName="scanner.x64.CodeAnalysis.NORUN" ScoreValue="0" ScoreUnit="" />
+
+<AssessmentScore ScoreName="..General.Checksum" ScoreValue="QXIfLD4k93sEzPz21WL54AXYLO1w+sNT30xtGFA9EtGnA2rDJGArdEuJyMrv4Ka9E+RiIpxyLvzUVWnRCRVOEg==" ScoreUnit="DVL Checksum Value" />
+</Data>

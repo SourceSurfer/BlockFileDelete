@@ -1,0 +1,1 @@
+takeown  /F "E:\MyWork\M-TE\Driver\scanner\filter\x64\Release" /a /r /d y
